@@ -1,4 +1,4 @@
-#denolog
+# Denolog
 
 ## Small logger I made for deno
 
@@ -17,4 +17,3 @@ logger.addTransport(new FileTransport(logFile));
 logger.error(new Error("xd error happened!"));
 
 ```
-<3
