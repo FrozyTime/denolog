@@ -11,5 +11,6 @@ export {
 	FileTransport,
 	ColourConsoleTransport,
 	ConsoleTransport,
+	Logger,
 	Logger as default
 };
